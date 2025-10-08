@@ -15,4 +15,16 @@ h1 {
 p {
     line-height: 1.6;
     color: #333;
+    /* เพิ่มโดย Sirinya สำหรับการทดสอบ Pull Request */
+.test-class {
+    color: #ff0000;
+    font-weight: bold;
+}
+
+.footer {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 14px;
+    color: #666;
+}
 }
